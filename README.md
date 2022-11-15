@@ -14,4 +14,6 @@
   <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width=50></a>
   <a href="https://slack.com/"><img src="https://img.icons8.com/color/480/000000/slack.png" width=50></a>
   <a href="https://www.notion.so/"><img src="https://img.icons8.com/color/480/000000/notion.png" width=50></a>
+  <a href="https://proxyman.io/"><img src="https://github.com/ProxymanApp.png" width=50></a>
+  <a href="https://mockoon.com/"><img src="https://github.com/mockoon.png" width=50></a>
 </div>
