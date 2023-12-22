@@ -9,6 +9,7 @@
   <a href="https://developer.android.com/studio"><img src="https://img.icons8.com/color/480/000000/android-studio.png" width=50></a>
   <a href="https://www.figma.com/"><img src="https://img.icons8.com/color/480/000000/figma.png" width=50></a>
   <a href="https://zeplin.io/"><img src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" width=50></a>
+  <a href="https://git-fork.com/"><img src="https://img.icons8.com/color/480/000000/iwnhAObXLQHc/fork.png" width=50></a>
   <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/480/000000/git.png" width=50></a>
   <a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/480/000000/firebase.png" width=50></a>
   <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width=50></a>
